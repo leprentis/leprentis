@@ -1,9 +1,9 @@
 ### Hello World
 Hi, I'm Lauren 👋
 
-![age](https://img.shields.io/badge/age-29-blue)
-![focus](https://img.shields.io/badge/focus-CompChem-brightgreen)
-![living](https://img.shields.io/badge/living-Boston-3c9)
+![Age](https://img.shields.io/badge/age-29-blue)
+![Focus](https://img.shields.io/badge/focus-CompChem-brightgreen)
+![Living](https://img.shields.io/badge/living-Boston-3c9)
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -21,6 +21,7 @@ Hi, I'm Lauren 👋
 <p align="left">
 <a href="https://linkedin.com/in/lauren-prentis-was-here"><img src="https://img.shields.io/badge/-Lauren%20Prentis-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:lep213@gmail.com"><img src="https://img.shields.io/badge/-lep213@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://twitter.com/lauren_prentis"><img src="https://img.shields.io/badge/-Lauren%20Prentis-0077B5?style=flat&logo=Twitter&logoColor=white"/></a>
 <br />
 <!--
 **leprentis/leprentis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
