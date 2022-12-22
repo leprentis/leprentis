@@ -18,7 +18,7 @@ Hi, I'm Lauren 👋
 
 ### 🧪 Computational Chemistry and Molecular Modeling Software
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![DOCK6](https://img.shields.io/badge/-DOCK6.9-black?style=for-the-badge)&nbsp;
 
 ### 🤝🏻 &nbsp;Connect with Me
 
