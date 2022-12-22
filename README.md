@@ -25,13 +25,13 @@ Docking Software:
 ![Autodock Vina](https://img.shields.io/badge/-Autodock%20Vina-black?style=for-the-badge)&nbsp;
 ![smina](https://img.shields.io/badge/-smina-black?style=for-the-badge)&nbsp;
 ![rDock](https://img.shields.io/badge/-rDock-black?style=for-the-badge)&nbsp;
-![Moe](https://img.shields.io/badge/-Moe-black?style=for-the-badge)\
+![Moe](https://img.shields.io/badge/-Moe-black?style=for-the-badge)
 
 Molecular Dynamics Programs:
 
 ![AMBER](https://img.shields.io/badge/-AMBER-black?style=for-the-badge)&nbsp;
 ![OpenMM](https://img.shields.io/badge/-OpenMM-black?style=for-the-badge)&nbsp;
-![Gromacs](https://img.shields.io/badge/-Gromacs-black?style=for-the-badge)\
+![Gromacs](https://img.shields.io/badge/-Gromacs-black?style=for-the-badge)
 
 Cheminformatics Toolkits:
 
