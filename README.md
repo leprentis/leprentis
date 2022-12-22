@@ -18,7 +18,7 @@ Hi, I'm Lauren 👋
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
+<p align="left">
 <a href="https://linkedin.com/in/lauren-prentis-was-here"><img src="https://img.shields.io/badge/-Lauren%20Prentis-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:lep213@gmail.com"><img src="https://img.shields.io/badge/-lep213@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <br />
