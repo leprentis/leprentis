@@ -23,6 +23,9 @@ Hi, I'm Lauren 👋
 ![Autodock Vina](https://img.shields.io/badge/-Autodock%20Vina-black?style=for-the-badge)&nbsp;
 ![smina](https://img.shields.io/badge/-smina-black?style=for-the-badge)&nbsp;
 ![rDock](https://img.shields.io/badge/-rDock-black?style=for-the-badge)&nbsp;
+![Moe](https://img.shields.io/badge/-Moe-black?style=for-the-badge)\
+![AMBER](https://img.shields.io/badge/-AMBER-black?style=for-the-badge)&nbsp;
+![OpenMM](https://img.shields.io/badge/-OpenMM-black?style=for-the-badge)&nbsp;
 
 ### 🤝🏻 &nbsp;Connect with Me
 
