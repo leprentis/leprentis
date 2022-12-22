@@ -19,23 +19,16 @@ Hi, I'm Lauren 👋
 
 ### 🧪 Computational Chemistry and Molecular Modeling Software
 
-#### Docking Software:
 
 ![DOCK6](https://img.shields.io/badge/-DOCK6-black?style=for-the-badge)&nbsp;
 ![DOCK3](https://img.shields.io/badge/-DOCK3-black?style=for-the-badge)&nbsp;
 ![Autodock Vina](https://img.shields.io/badge/-Autodock%20Vina-black?style=for-the-badge)&nbsp;
 ![smina](https://img.shields.io/badge/-smina-black?style=for-the-badge)&nbsp;
 ![rDock](https://img.shields.io/badge/-rDock-black?style=for-the-badge)&nbsp;
-![Moe](https://img.shields.io/badge/-Moe-black?style=for-the-badge)
-
-#### Molecular Dynamics Programs:
-
+![Moe](https://img.shields.io/badge/-Moe-black?style=for-the-badge)\
 ![AMBER](https://img.shields.io/badge/-AMBER-black?style=for-the-badge)&nbsp;
 ![OpenMM](https://img.shields.io/badge/-OpenMM-black?style=for-the-badge)&nbsp;
-![Gromacs](https://img.shields.io/badge/-Gromacs-black?style=for-the-badge)
-
-#### Cheminformatics Toolkits:
-
+![Gromacs](https://img.shields.io/badge/-Gromacs-black?style=for-the-badge)\
 ![Rdkit](https://img.shields.io/badge/-Rdkit-black?style=for-the-badge)&nbsp;
 ![Open Babel](https://img.shields.io/badge/-Open%20Babel-black?style=for-the-badge)&nbsp;
 ![CDD Vault](https://img.shields.io/badge/-CDD%20Vault-black?style=for-the-badge)&nbsp;
