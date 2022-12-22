@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hello World
+Hi, I'm Lauren 👋
 
+![age](https://img.shields.io/badge/age-29-blue)
+![focus](https://img.shields.io/badge/focus-CompChem-brightgreen)
+![living](https://img.shields.io/badge/living-Boston-3c9)
+![visitors](https://visitor-badge.herokuapp.com/badge?page_id=windard.github.profile)
+
+<br />
 <!--
 **leprentis/leprentis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
