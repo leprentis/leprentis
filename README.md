@@ -1,9 +1,9 @@
 ### Hello World
 Hi, I'm Lauren 👋
 
-![Age](https://img.shields.io/badge/age-29-blue)
-![Focus](https://img.shields.io/badge/focus-CompChem-brightgreen)
-![Living](https://img.shields.io/badge/living-Boston-3c9)
+![Age](https://img.shields.io/badge/Age-29-blue)
+![Focus](https://img.shields.io/badge/Focus-CompChem-brightgreen)
+![Living](https://img.shields.io/badge/Living-Boston-3c9)
 
 ### 🛠 &nbsp;Tech Stack
 
